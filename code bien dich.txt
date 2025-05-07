@@ -1,0 +1,6 @@
+sudo insmod bmp180.ko
+sudo rmmod bmp180
+
+gcc -c bmp180_lib.c -o test.o
+ar rc libbmp.a test.o
+gcc lib_main.c -L. -lmax -o bmp180 -lms
