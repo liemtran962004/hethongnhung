@@ -1,7 +1,7 @@
 /*
 Thành viên:
 Nguyễn Tấn Lợi - 22146347
-Trần Chí Liêm  - 22146
+Trần Chí Liêm  - 22146342
 Nguyễn Trần Thiện Hải - 22146300
 Nguyễn Đỗ Minh Khoa - 22146334
 */
